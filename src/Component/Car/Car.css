@@ -5,13 +5,20 @@
 
 .cars-item {
     display: grid;
-    justify-content: center;
+
     grid-template-columns: auto auto;
     margin: 50px;
 
 
 
 
+}
+
+@media only screen and (max-width: 600px) {
+    .cars-item {
+        display: grid;
+        grid-template-columns: auto;
+    }
 }
 
 .cars-summary {

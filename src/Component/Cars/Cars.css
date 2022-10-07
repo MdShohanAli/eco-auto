@@ -12,3 +12,21 @@
     background-color: #E8E5E4;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
+
+button {
+    margin-left: 13px;
+    border: none;
+    font-size: 18px;
+}
+
+@media only screen and (max-width: 600px) {
+    .card img {
+        width: 100%;
+
+    }
+
+    .card {
+        margin: 10px 0px;
+        width: 180px;
+    }
+}
