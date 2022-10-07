@@ -1,0 +1,19 @@
+.car-container {
+    display: grid;
+    grid-template-columns: 4fr 2fr;
+}
+
+.cars-item {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto auto;
+    margin: 50px;
+
+
+
+
+}
+
+.cars-summary {
+    /* border: 1px solid royalblue; */
+}

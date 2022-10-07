@@ -1,46 +1,46 @@
 [
     {
      "Id" : "1" ,
-      "Name ": "Blue Bmw Sedan",
+      "Name": "Blue Bmw Sedan",
       "Price" : "$75000",
-     " Image" :"https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg",
+     "Image" :"https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg",
      "release": "2015"
-    } ,
-    
+    }  ,
     {
-      "Id" : "2",
-      "Name ": "Red Subaru" ,
-      "Price" : "$17500",
-      "Image" :"https://https://images.pexels.com/photos/3874329/pexels-photo-3874329.jpeg",
-      "release": "2019"
-    } ,
-    {
-      "Id ": "3",
-      "Name ":  "Sports Car Nissan",
+      "Id": "3",
+      "Name":  "Sports Car Nissan",
       "Price" :" $29500",
       "Image" :"https://images.pexels.com/photos/4674338/pexels-photo-4674338.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "release": "2018"
     } ,
      {
-      "Id ": "4",
-      "Name ":  "Tesla AUto Pilot",
-     " Price" : "$99500",
-      "Image ":"https://images.pexels.com/photos/4276785/pexels-photo-4276785.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "Id": "4",
+      "Name":  "Tesla AUto Pilot",
+     "Price" : "$99500",
+      "Image":"https://images.pexels.com/photos/4276785/pexels-photo-4276785.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "release" : "2021"
     },
      {
-      "Id ": "5",
+      "Id": "5",
       "Name" :  "Frood Ultra Pro",
       "Price" : "$892500",
       "Image" :"https://images.pexels.com/photos/4674347/pexels-photo-4674347.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "release" : "2022"
     },
      {
-     "Id" : "6",
-      "Name" :  "Subaru Impreza",
+     "Id": "6",
+      "Name" :"Subaru Impreza",
       "Price" : "$582500",
-      "Image":"https://images.pexels.com/photos/7980898/pexels-photo-7980898.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "Image":"https://images.pexels.com/photos/39501/lamborghini-brno-racing-car-automobiles-39501.jpeg?auto=compress&cs=tinysrgb&w=600",
       "release": "2023"
+    }
+    ,
+     {
+     "Id": "7",
+      "Name" :"Audi Ninja",
+      "Price" : "$552500",
+      "Image":"https://images.pexels.com/photos/136872/pexels-photo-136872.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "release": "2024"
     }
     
     

@@ -1,0 +1,14 @@
+.card img {
+    width: 80%;
+
+}
+
+.card {
+
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+    height: 320px;
+    background-color: #E8E5E4;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
