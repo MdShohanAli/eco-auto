@@ -1,8 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Cars from '../Cars/Cars';
 import './Car.css'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCartShopping } from '@fortawesome/free-solid-svg-icons'
 
 
 const Car = () => {
@@ -44,7 +42,7 @@ const Car = () => {
 
                 <h2>Select Item</h2>
 
-                <p>{cart} <FontAwesomeIcon icon={faCartShopping} /></p>
+                <p>{cart} </p>
                 <button className='summary-btn' >Choose One For Me</button> <br /> <br />
                 <button className='summary-btn' >Choose Again</button>
 

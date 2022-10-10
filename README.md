@@ -2,8 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## live site link 
- [live link ](https://facebook.github.io/create-react-app/docs/running-tests)
-## Available Scripts
+
+  Live Site link this project[https://magenta-kringle-31d87c.netlify.app/ ]('https://magenta-kringle-31d87c.netlify.app/')
+
+## Available Scriptsgit 
 
 In the project directory, you can run:
 
