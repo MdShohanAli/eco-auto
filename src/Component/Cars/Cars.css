@@ -1,20 +1,24 @@
 .card img {
-    width: 80%;
+    width: 90%;
 
 }
 
 .card {
 
     text-align: center;
-    padding: 10px;
+    padding: 20px;
     margin: 20px;
     height: 320px;
     background-color: #E8E5E4;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
+.btn-summary {
+    padding: 15px;
+}
+
 button {
-    margin-left: 13px;
+
     border: none;
     font-size: 18px;
 }

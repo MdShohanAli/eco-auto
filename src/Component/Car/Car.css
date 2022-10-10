@@ -9,18 +9,24 @@
     grid-template-columns: auto auto;
     margin: 50px;
 
-
-
-
 }
+
+.cars-summary {
+    text-align: center;
+}
+
+.summary-btn {
+    padding: 10px;
+    border-radius: 3px;
+}
+
+
 
 @media only screen and (max-width: 600px) {
     .cars-item {
         display: grid;
         grid-template-columns: auto;
     }
-}
 
-.cars-summary {
-    /* border: 1px solid royalblue; */
+
 }
